@@ -1,0 +1,9 @@
+global-styling:
+  css:
+    theme:
+      juicebox/classic/theme.css: {}
+      css/style.css: {}
+
+global-js:
+  js:
+    juicebox/juicebox.js: {}
